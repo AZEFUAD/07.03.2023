@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Constants",
+    "\\Core\\Entities",
+    "\\Core\\Extensions",
+    "\\Core\\Helpers",
+    "\\Data",
+    "\\Data\\Repositories",
+    "\\FinalProject",
+    "\\FinalProject\\Services"
+  ],
+  "SelectedNode": "\\Core\\Entities\\Druggist.cs",
+  "PreviewInSolutionExplorer": false
+}
